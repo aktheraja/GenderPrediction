@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/aktheraja/GenderPrediction/",
+  "homepage": "https://github.com/aktheraja/GenderPrediction/tree/master/website/frontend/",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
