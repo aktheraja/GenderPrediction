@@ -23,7 +23,7 @@ export default function NavBar() {
           <li className="nav-item active">
             <a
               className="nav-link"
-              href="https://github.com/savithcj/ImageBasedGenderPrediction"
+              href="https://github.com/aktheraja/GenderPrediction"
               target="_blank"
               rel="noopener noreferrer"
             >

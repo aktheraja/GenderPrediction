@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a152033d-8b8f-4308-bf56-de71728681ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/CNN-final-model-v3.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/age_prediction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/gender_prediction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-3-conv-32-node-2-dens-1553635516/events.out.tfevents.1553635522.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-3-conv-32-node-2-dens-1553636464/events.out.tfevents.1553636472.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-3-conv-32-node-2-dens-1553641383/events.out.tfevents.1553641395.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-4-conv-32-node-2-dens-1553646613/events.out.tfevents.1553646627.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-4-conv-32-node-2-dens-1553651832/events.out.tfevents.1553651847.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-4-conv-32-node-2-dens-1553710479/events.out.tfevents.1553710502.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-4-conv-32-node-2-dens-1553736475/events.out.tfevents.1553736481.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-4-conv-32-node-3-dens-1553710315/events.out.tfevents.1553710336.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-1024-node-2-dens-1553720649/events.out.tfevents.1553720674.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-1024-node-2-dens-1553766327/events.out.tfevents.1553766336.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-16-node-2-dens-1554487860/events.out.tfevents.1554487867.ENC20103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1553695243/events.out.tfevents.1553695260.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1553721908/events.out.tfevents.1553721914.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1553790061/events.out.tfevents.1553790067.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1553829707/events.out.tfevents.1553829707.ENC20103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1553831818/events.out.tfevents.1553831825.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1553895953-3/events.out.tfevents.1553988971.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1553895953/events.out.tfevents.1553895954.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1554148809/events.out.tfevents.1554148825.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1554396563/events.out.tfevents.1554396566.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1554485819/events.out.tfevents.1554485826.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1554573138/events.out.tfevents.1554573140.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1554663813/events.out.tfevents.1554663816.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1554706050/events.out.tfevents.1554706050.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1554757735/events.out.tfevents.1554757737.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-2-dens-1554789727/events.out.tfevents.1554789732.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-5-conv-32-node-3-dens-1553703610/events.out.tfevents.1553703630.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-6-conv-32-node-2-dens-1554341220/events.out.tfevents.1554341228.ENC20103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-6-conv-32-node-2-dens-1554341264/events.out.tfevents.1554341274.ENC20103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-6-conv-32-node-2-dens-1554341380/events.out.tfevents.1554341393.ENC20103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-6-conv-32-node-2-dens-1554341609/events.out.tfevents.1554341625.ENC20103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-6-conv-32-node-2-dens-1554397104/events.out.tfevents.1554397109.ENC20103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/BN-6-conv-32-node-2-dens-1554408314/events.out.tfevents.1554408319.ENC20103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/Double-5-conv-32-node-2-dens-1553612870/events.out.tfevents.1553612878.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/Double-5-conv-32-node-2-dens-1553613112/events.out.tfevents.1553613121.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/Double-5-conv-32-node-3-dens-1553612794/events.out.tfevents.1553612800.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/V2-5-conv-32-node-2-dens-1554852878/events.out.tfevents.1554852883.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/VGG16-gender-1553039473/events.out.tfevents.1553039477.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/VGG16-gender-1553040891/events.out.tfevents.1553040896.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/double-5-conv-32-node-3-dens-1553407369/events.out.tfevents.1553407373.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/double-5-conv-32-node-3-dens-1553407568/events.out.tfevents.1553407572.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/double-5-conv-32-node-3-dens-1553611868/events.out.tfevents.1553611873.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-128-node-2-dens-1552897463/events.out.tfevents.1552897464.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-128-node-2-dens-1553005355/events.out.tfevents.1553005356.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-32-node-2-dens-1552891559/events.out.tfevents.1552891560.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-32-node-2-dens-1552975046/events.out.tfevents.1552975047.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-32-node-2-dens-1552975562/events.out.tfevents.1552975563.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-32-node-5-dens-1552889403/events.out.tfevents.1552889404.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-32-node-5-dens-1552889763/events.out.tfevents.1552889764.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-64-node-2-dens-1552893456/events.out.tfevents.1552893457.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-64-node-2-dens-1552985014/events.out.tfevents.1552985016.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-2-conv-96-node-2-dens-1552888064/events.out.tfevents.1552888064.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-3-conv-32-node-2-dens-1552886414/events.out.tfevents.1552886415.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-3-conv-32-node-2-dens-1552978617/events.out.tfevents.1552978618.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-3-conv-64-node-2-dens-1552991364/events.out.tfevents.1552991366.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-128-node-2-dens-1552902594/events.out.tfevents.1552902595.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-128-node-3-dens-1553033536/events.out.tfevents.1553033540.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-32-node-2-dens-1552892511/events.out.tfevents.1552892512.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-32-node-2-dens-1552919353/events.out.tfevents.1552919353.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-32-node-2-dens-1552946165/events.out.tfevents.1552946166.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-32-node-2-dens-1552981798/events.out.tfevents.1552981799.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-32-node-3-dens-1553027157/events.out.tfevents.1553027158.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-32-node-3-dens-1553027366/events.out.tfevents.1553027367.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-32-node-3-dens-1553027496/events.out.tfevents.1553027498.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-32-node-3-dens-1553027568/events.out.tfevents.1553027570.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-64-node-2-dens-1552895392/events.out.tfevents.1552895393.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-64-node-2-dens-1552947159/events.out.tfevents.1552947160.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-64-node-2-dens-1552953687/events.out.tfevents.1552953688.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-64-node-2-dens-1552998269/events.out.tfevents.1552998271.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-64-node-3-dens-1553029916/events.out.tfevents.1553029919.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/gender-5-conv-96-node-2-dens-1552886813/events.out.tfevents.1552886814.this-computer-from-year-2050.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/rgb-5-conv-64-node-3-dens-1553625973/events.out.tfevents.1553625976.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/rgb-5-conv-64-node-3-dens-1553631248/events.out.tfevents.1553631251.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/v2-10pct-5-conv-32-node-2-dens-1554945443/events.out.tfevents.1554945443.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/v2-1pct-5-conv-32-node-2-dens-1554939151/events.out.tfevents.1554939155.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/logs/v2-5pct-5-conv-32-node-2-dens-1554941769/events.out.tfevents.1554941773.ENC20104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/retrain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/CNNPredictions/training_notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/IMDB/imdb.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/Labels.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/OpenCV Tutorial/Basic OpenCV.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/OpenCV Tutorial/IMG_0239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/Wiki/wiki.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/df_10pct.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/df_1pct.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/df_20pct.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/df_5pct.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Dataset/df_all.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Demo/Demo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Demo/group.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/Demo/haarcascade_frontalface_default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/10pctResults/(10pct)GNB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/10pctResults/(10pct)KNN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/10pctResults/(10pct)LDA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/10pctResults/(10pct)LOGIT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/10pctResults/(10pct)RF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/10pctResults/(10pct)SVM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/1pctResults/(1pct)GNB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/1pctResults/(1pct)KNN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/1pctResults/(1pct)LDA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/1pctResults/(1pct)LOGIT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/1pctResults/(1pct)RF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/1pctResults/(1pct)SVM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/5pctResults/(5pct)GNB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/5pctResults/(5pct)KNN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/5pctResults/(5pct)LDA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/5pctResults/(5pct)LOGIT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/5pctResults/(5pct)RF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/5pctResults/(5pct)SVM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/EDIT/precision_and_confusionMatrix2019-04-10T20_57_12.678099.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/EDIT/precision_and_confusionMatrix2019-04-10T20_59_31.787494.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/EDIT/precision_and_confusionMatrix2019-04-10T21_05_14.042585.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/EDIT/precision_and_confusionMatrix2019-04-10T21_05_21.992565.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/EDIT/precision_and_confusionMatrix2019-04-10T21_05_35.357079.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/20pct/GNB.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/20pct/KNN.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/20pct/LDA.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/20pct/LOGIT.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/20pct/OverallResults.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/20pct/RF.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/20pct/SVM.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/4pct/GNB.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/4pct/KNN.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/4pct/LDA.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/4pct/LOGIT.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/4pct/RF.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/4pct/SVM.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/4pct/overallResults.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/C_tuning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/C_tuning2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/SVMTrial1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/SVMTrial2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/SVMTrial3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/poly_kernel_C_gamma.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/poly_kernel_coef0s.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/poly_kernel_degree.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/SVMTuning/svmBestResult.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/Summary_plots.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/Results/traditional_ML.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/finalResults.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/goodResults/SVMTrial5PCT.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/goodResults/SVMTuning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/goodResults/SVMTuning2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/goodResults/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/goodResults/traditional_ML.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/image_data_generator.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_02_03.028166.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_03_05.141245.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_04_34.806349.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_04_38.891746.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_04_45.673936.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_11_57.438320.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_16_45.269554.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_16_58.125468.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_17_02.759393.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_17_03.714389.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_17_04.985094.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_17_25.197487.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_57_12.678099.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T20_59_31.787494.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T21_05_14.042585.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T21_05_21.992565.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T21_05_35.357079.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/precision_and_confusionMatrix2019-04-10T21_59_52.329583.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/traditionalML.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/MLClassique/traditional_ML.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/images/CNN-result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/images/CNN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/images/comparison-datasize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/images/data.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/images/output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/images/output2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/images/table1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/images/table2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/Aptfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/detector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/predictor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/rest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/api/runtime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/src/components/ImageUploader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/src/components/Info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/src/components/NavBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/src/components/Results.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageBasedGenderPrediction/website/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/website/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/frontend/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/frontend/src/components/NavBar.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/frontend/src/components/NavBar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/website/frontend/src/components/NavBar.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/GenderPrediction.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="870" />
+    <option name="width" value="1395" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GenderPrediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenderPrediction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GenderPrediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenderPrediction" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GenderPrediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenderPrediction" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GenderPrediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenderPrediction" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GenderPrediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GenderPrediction" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a152033d-8b8f-4308-bf56-de71728681ba" name="Default Changelist" comment="" />
+      <created>1566267128859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566267128859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/website/frontend/src/components/NavBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
