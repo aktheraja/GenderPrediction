@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/GenderPrediction/tree/master/website/frontend/static/css/main.232305eb.chunk.css",
-    "main.js": "/GenderPrediction/tree/master/website/frontend/static/js/main.b9e135ef.chunk.js",
-    "main.js.map": "/GenderPrediction/tree/master/website/frontend/static/js/main.b9e135ef.chunk.js.map",
-    "runtime~main.js": "/GenderPrediction/tree/master/website/frontend/static/js/runtime~main.20a1daea.js",
-    "runtime~main.js.map": "/GenderPrediction/tree/master/website/frontend/static/js/runtime~main.20a1daea.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/GenderPrediction/tree/master/website/frontend/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.073f37f5.chunk.js": "/GenderPrediction/tree/master/website/frontend/static/js/2.073f37f5.chunk.js",
-    "static/js/2.073f37f5.chunk.js.map": "/GenderPrediction/tree/master/website/frontend/static/js/2.073f37f5.chunk.js.map",
-    "index.html": "/GenderPrediction/tree/master/website/frontend/index.html",
-    "precache-manifest.d5012710a09e5b7d1de60c1bf6ebeb86.js": "/GenderPrediction/tree/master/website/frontend/precache-manifest.d5012710a09e5b7d1de60c1bf6ebeb86.js",
-    "service-worker.js": "/GenderPrediction/tree/master/website/frontend/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/GenderPrediction/tree/master/website/frontend/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.232305eb.chunk.css.map": "/GenderPrediction/tree/master/website/frontend/static/css/main.232305eb.chunk.css.map"
+    "main.css": "/GenderPrediction/static/css/main.232305eb.chunk.css",
+    "main.js": "/GenderPrediction/static/js/main.b9e135ef.chunk.js",
+    "main.js.map": "/GenderPrediction/static/js/main.b9e135ef.chunk.js.map",
+    "runtime~main.js": "/GenderPrediction/static/js/runtime~main.1f411ef9.js",
+    "runtime~main.js.map": "/GenderPrediction/static/js/runtime~main.1f411ef9.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/GenderPrediction/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.073f37f5.chunk.js": "/GenderPrediction/static/js/2.073f37f5.chunk.js",
+    "static/js/2.073f37f5.chunk.js.map": "/GenderPrediction/static/js/2.073f37f5.chunk.js.map",
+    "index.html": "/GenderPrediction/index.html",
+    "precache-manifest.b98ba8b97c76fe3e376ff730f81787de.js": "/GenderPrediction/precache-manifest.b98ba8b97c76fe3e376ff730f81787de.js",
+    "service-worker.js": "/GenderPrediction/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/GenderPrediction/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.232305eb.chunk.css.map": "/GenderPrediction/static/css/main.232305eb.chunk.css.map"
   }
 }
